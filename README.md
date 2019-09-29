@@ -20,3 +20,14 @@ Y esperando tener como salida:
 ---
 
 El programa se desarrollo en el lenguaje de programacion ***PYTHON***
+
+---
+#  Salida del Programa Desarrollado
+
+## Una solucion completa sin redondear.
+![CapturaSalidaSinRedondear](https://github.com/FrankHackerman/Practica02ADB/blob/master/Completo.jpeg)
+
+
+## Opcion de la Salida del programa con redondeo a 4 decimales.
+![CapturaSalidaSinRedondear](https://github.com/FrankHackerman/Practica02ADB/blob/master/Redondeado.png)
+
