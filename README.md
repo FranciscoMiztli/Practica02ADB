@@ -1,5 +1,6 @@
-#Administracion de Base de Datos
-##Practica Numero 2
+# Administracion de Base de Datos
+
+## Practica Numero 2
 ---
 
 Creacion de un programa/API que nos permita estimar el peso de una base de datos 
@@ -18,4 +19,4 @@ Y esperando tener como salida:
 
 ---
 
-El programa se desarrollo en el lenguaje de programacion ***PYTHON***# Practica02ADB
+El programa se desarrollo en el lenguaje de programacion ***PYTHON***
